@@ -1,4 +1,4 @@
-# Hi, I'm Filipe Chicoli! 🚀
+# Hi, I'm Filipe Chicoli! 
 
 I am a Fullstack Developer and Computer Science student with a passion for building scalable, high-performance applications. With a solid foundation that bridges software engineering and business logic, I specialize in developing end-to-end solutions that optimize processes, enhance user experience, and deliver real business value. 
 
