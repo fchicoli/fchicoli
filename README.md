@@ -15,11 +15,12 @@ I have experience working with a modern ecosystem focused on scalability and clo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_Functions-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 * **Backend & Cloud:** Node.js, NestJS, Azure Functions, Azure Durable Functions, Google Cloud (Cloud Run), Dapr, PostgreSQL, and Sequelize.
+* **Frontend:** React, TypeScript, and modern UI development.
 * **AI & Integration:** Experience using OpenAI SDK for intelligent features.
 * **DevOps:** Azure DevOps Node API, Axios, and Class Validator/Transformer.
 
