@@ -4,7 +4,7 @@ I am a Fullstack Developer and Computer Science student with a passion for build
 
 Currently expanding my career horizons to the European tech market, I bring hands-on experience in modern web ecosystems, cloud architectures, and a strong commitment to clean code and continuous improvement.
 
-### 💼 Professional Background
+### Professional Background
 
 **Fullstack Developer @ VENHA PRA NUVEM (VPN)**
 I play an active role in the development, maintenance, and continuous improvement of **Code Dash**, a sophisticated platform focused on software engineering performance and metrics. My day-to-day responsibilities span the entire stack, ensuring robust, scalable, and user-friendly solutions:
@@ -13,7 +13,7 @@ I play an active role in the development, maintenance, and continuous improvemen
 * **Continuous Improvement & Optimization:** I am deeply involved in refactoring code, adjusting application logic, and implementing system upgrades that directly impact the platform's efficiency and the end-user experience.
 * **Technical Support & Collaboration:** Beyond writing code, I provide ongoing technical support to internal collaborators, helping to troubleshoot issues, guide best practices, and ensure smooth operational workflows across the team.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 I have experience working with a modern ecosystem focused on scalability and cloud computing:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -30,7 +30,7 @@ I have experience working with a modern ecosystem focused on scalability and clo
 * **AI & Integration:** Experience using OpenAI SDK for intelligent features.
 * **DevOps:** Azure DevOps Node API, Axios, and Class Validator/Transformer.
 
-### 🌍 Languages & Communication
+### Languages & Communication
 My background includes extensive experience in customer-centric environments and leadership roles, which shaped my professional communication:
 * **Portuguese:** Native.
 * **Spanish:** Proficient (Experience in international customer service).
