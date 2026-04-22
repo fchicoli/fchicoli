@@ -36,7 +36,7 @@ My background includes extensive experience in customer-centric environments and
 * **Spanish:** Proficient (Experience in international customer service).
 * **English:** Intermediate (Reading and writing).
 
-### 🎓 Education
+### Education
 * **B.S. in Computer Science** - Universidade Cruzeiro do Sul (In progress, 5th year).
 
 ---
