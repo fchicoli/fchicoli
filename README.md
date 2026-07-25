@@ -41,11 +41,11 @@ I have experience working with a modern ecosystem focused on scalability, mobile
 My background includes extensive experience in customer-centric environments and leadership roles, which shaped my professional communication:
 
 *   **Portuguese:** Native.
-*   **Spanish:** Proficient (Experience in international customer service).
-*   **English:** Intermediate (Reading and writing).
+*   **Spanish:** Proficient
+*   **English:** Intermediate 
 
 ## Education
 
-*   **B.S. in Computer Science** - Universidade Cruzeiro do Sul (In progress, 5th year).
+*   **B.S. in Computer Science** - Universidade Cruzeiro do Sul (Expected graduation: Dec 2027).
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/filipechicoli/) | [Email](mailto:lipe.chicoli1@gmail.com)
